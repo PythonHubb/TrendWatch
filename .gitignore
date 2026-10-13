@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment and editor settings
+.venv/
+.vscode/
+
+# Data and reports the program creates
+*.db
+report*.csv
+report*.json
